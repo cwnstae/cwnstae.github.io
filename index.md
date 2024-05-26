@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 [Visit to see my portfolio](./data-analytic-portfolio/).
 
 Welcome to my GitHub profile! I’m passionate about leveraging data to drive meaningful insights and solve real-world problems. With a background in engineering, I thrive on exploring complex datasets, building predictive models, and visualizing results.
@@ -33,10 +33,12 @@ Welcome to my GitHub profile! I’m passionate about leveraging data to drive me
    - **Supervise the production line** to gain insights and develop strategies for managing people within the production line.
    - **Control OEE (efficiency)** of assembly shop, identifying the problems that affect to decreasing of OEE and schedule meeting with source of problem to find countermeasure.
    - **Quality problems solving**, investigate the problem situation to analyze for finding the root causes and set the permanent countermeasure.
+
 ### AUTOMATED WAREHOUSE SOLUTION DESIGN ENGINEER| AEI SOLUSION CO., LTD | MARCH 2021– DECEMBER 2021
    - **Design optimal solutions** including layout, racking systems, machine selection, and automated/semi-automated workflows to enhance storage efficiency and retrieval speed (ASRS: Automated Storage & Retrieval System)."
    - **Suppliers selection,** select the suppliers or makers are expert in their products with reasonably costing.
    - **Support customer concept requirements**, discuss with customers to obtain their necessaries information for warehouse design.
+
 ### QUALITY ASSURANCE (QA) | NHK SPRING (THAILAND) CO., LTD | JUNE 2019 – FEBRUARY 2021
    - **Ensure finished goods** match customer specifications through quality control of dimensions, properties, and reliability before delivery.
    - **Investigate and resolve quality issues,** determining root causes and implementing preventive measures for recurring problems.
