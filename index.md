@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Visit my portfolio website]([./data-analytic-portfolio/](https://cwnstae.github.io/data-analytic-portfolio/)).
+[Visit my portfolio website](./data-analytic-portfolio/).
 
 There should be whitespace between paragraphs.
 
