@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to another page]([./data-analytic-portfolio/](https://cwnstae.github.io/data-analytic-portfolio/)).
 
 There should be whitespace between paragraphs.
 
