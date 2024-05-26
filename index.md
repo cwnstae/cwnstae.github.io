@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Cheewin](https://github.com/cwnstae/cwnstae.github.io/blob/main/assets/my%20profile%20picture.png)
 [Visit to see my portfolio](./data-analytic-portfolio/).
 
 Welcome to my GitHub profile! I’m passionate about leveraging data to drive meaningful insights and solve real-world problems. With a background in engineering, I thrive on exploring complex datasets, building predictive models, and visualizing results.
