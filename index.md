@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[Visit to see my portfolio](./data-analytic-portfolio/).
+[Visit to see my portfolio [Link]](./data-analytic-portfolio/).
 
 Welcome to my GitHub profile! I’m passionate about leveraging data to drive meaningful insights and solve real-world problems. With a background in engineering, I thrive on exploring complex datasets, building predictive models, and visualizing results.
 
